@@ -11,12 +11,12 @@
   
 .contact{
     position : fixed;
-    font-size : 0.8rem;
+    font-size : 10px;
     display: flex;
     /* flex-direction: column; */
     row-gap:20px;
     top:10px;
-    right: 30vw;
+    right: 100px;
     /* border-style: solid;; */
     border-width:1px;
     border-radius:10px;
@@ -27,12 +27,12 @@
 }
 .contact1{
     position : fixed;
-    font-size : 0.8rem;
+    font-size :10px;
     display: flex;
     /* flex-direction: column; */
     row-gap:20px;
     top:10px;
-    right: 15vw;
+    right: 200px;
     /* border-style: solid; */
     border-width:1px;
     border-radius:10px;
@@ -43,10 +43,10 @@
 }
 .contact3{
     position:fixed;
-    font-size:0.8rem;
+    font-size:10px;
     background-color:beige;
     top:15px;
-    right: 50vw;
+    right: 300;
     padding:5px;
     border-radius:10px
 
