@@ -55,9 +55,9 @@
 .pdf{
     position: fixed;    
     box-sizing: border-box;
-    top:30vh;
+    top:400PX;
     right:15px;
-    font-size: 0.8rem;
+    font-size: 10px;
     width : 60px;
     display :flex;
     flex-direction: column;
