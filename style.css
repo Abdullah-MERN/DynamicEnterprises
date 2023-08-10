@@ -11,7 +11,7 @@
   
 .contact{
     position : fixed;
-    font-size : 10px;
+    font-size : 0.8rem;
     display: flex;
     /* flex-direction: column; */
     row-gap:20px;
@@ -27,7 +27,7 @@
 }
 .contact1{
     position : fixed;
-    font-size :10px;
+    font-size : 0.8rem;
     display: flex;
     /* flex-direction: column; */
     row-gap:20px;
@@ -43,7 +43,7 @@
 }
 .contact3{
     position:fixed;
-    font-size:10px;
+    font-size:0.8rem;
     background-color:beige;
     top:15px;
     right: 50vw;
@@ -57,7 +57,7 @@
     box-sizing: border-box;
     top:30vh;
     right:15px;
-    font-size: 10px;
+    font-size: 0.8rem;
     width : 60px;
     display :flex;
     flex-direction: column;
