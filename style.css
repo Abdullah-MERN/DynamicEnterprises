@@ -88,5 +88,5 @@
 .pop:hover{
     transform: translateY(-5px); /* Lift the container on hover */
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.8); /* Adjust shadow on hover */
-    border-radius: 4px;
+    border-radius: 10px;
 }
