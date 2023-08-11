@@ -64,6 +64,22 @@
     align-items: center;
     
     /* background-color: cyan; */
+
+    .page-body {
+    display: inline-block; /* Keep the container size based on content */
+    margin: 10px; /* Adjust as needed */
+    padding: 0; /* No padding */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);
+    border-radius: 5px; /* Optional: add rounded corners */
+    overflow: hidden; /* Clip the shadow to container */
+    transition: transform 0.2s, box-shadow 0.2s; /* Add smooth transitions */
+}
+
+.page-body:hover {
+    transform: translateY(-5px); /* Lift the container on hover */
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.8); /* Adjust shadow on hover */
+}
+
     
     
 }
