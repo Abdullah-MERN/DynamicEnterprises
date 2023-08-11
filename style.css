@@ -64,8 +64,7 @@
     align-items: center;
     
     /* background-color: cyan; */
-
-    .page-body {
+.page-body {
     display: inline-block; /* Keep the container size based on content */
     margin: 10px; /* Adjust as needed */
     padding: 0; /* No padding */
@@ -78,10 +77,7 @@
 .page-body:hover {
     transform: translateY(-5px); /* Lift the container on hover */
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.8); /* Adjust shadow on hover */
-}
-
-    
-    
+} 
 }
 .para{
  text-align: center;
